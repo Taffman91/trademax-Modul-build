@@ -1,0 +1,40 @@
+{
+	"Bahamas":[
+		{
+			"artno" : "514259",
+			"name" : "Hörndel",
+			"height" : "90",
+      "width" : "90"
+		},
+		{
+			"artno" : "514260",
+			"name" : "Mittdel",
+			"height" : "90",
+      "width" : "75"
+		},
+		{
+			"artno" : "514257",
+			"name" : "Vänster",
+			"height" : "90",
+      "width" : "140"
+		},
+		{
+			"artno" : "514258",
+			"name" : "Höger",
+			"height" : "90",
+      "width" : "140"
+		},
+		{
+			"artno" : "514261",
+			"name" : "Fåtölj",
+			"height" : "90",
+      "width" : "95"
+		},
+		{
+			"artno" : "514262",
+			"name" : "Ottoman",
+			"height" : "75",
+      "width" : "75"
+		}
+	]
+}
