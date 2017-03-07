@@ -40,7 +40,7 @@
                     "name": "Fåtölj",
                     "height": "90",
                     "width": "95",
-                    "imageURL": "modulbilder/fotolj.jpg"
+                    "imageURL": "modulbilder/fatolj.jpg"
                 },
                 {
                     "pid": "85569",
@@ -61,7 +61,7 @@
                     "name": "Hörndel",
                     "height": "90",
                     "width": "90",
-                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500487.jpg&w=3000&h=2000&q=100&version=106"
+                    "imageURL": "modulbilder/horndel.jpg"
                 },
                 {
                     "pid": "85567",
@@ -69,7 +69,7 @@
                     "name": "Mittdel",
                     "height": "90",
                     "width": "75",
-                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500492(4).jpg&w=3000&h=2000&q=100&version=105"
+                    "imageURL": "modulbilder/mittdel.jpg"
                 },
                 {
                     "pid": "85564",
@@ -77,7 +77,7 @@
                     "name": "Vänster",
                     "height": "90",
                     "width": "140",
-                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500483.jpg&w=3000&h=2000&q=100&version=107"
+                    "imageURL": "modulbilder/vanster.jpg"
                 },
                 {
                     "pid": "85565",
@@ -85,7 +85,7 @@
                     "name": "Höger",
                     "height": "90",
                     "width": "140",
-                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500485.jpg&w=3000&h=2000&q=100&version=107"
+                    "imageURL": "modulbilder/hoger.jpg"
                 },
                 {
                     "pid": "85568",
@@ -93,7 +93,7 @@
                     "name": "Fåtölj",
                     "height": "90",
                     "width": "95",
-                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=96023.jpg&w=3000&h=2000&q=100&version=103"
+                    "imageURL": "modulbilder/fatolj.jpg"
                 },
                 {
                     "pid": "85569",
@@ -101,7 +101,7 @@
                     "name": "Ottoman",
                     "height": "75",
                     "width": "75",
-                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=200-027(5).jpg&w=3000&h=2000&q=100&version=114"
+                    "imageURL": "modulbilder/ottoman.jpg"
                 }
             ]
         }

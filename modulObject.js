@@ -2,7 +2,7 @@ function modulObject (x, y, index, bild, namn){
     this.x = x;
     this.y = y;
     this.index = index;
-    this.img = loadImage(bild);
+    this.img = bild;
     this.namn = namn;
 
     this.show = function() {
