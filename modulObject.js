@@ -1,4 +1,4 @@
-function object (){
+function modulObject (){
     this.show = function() {
 
     }

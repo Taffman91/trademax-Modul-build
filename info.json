@@ -1,40 +1,109 @@
 {
-	"bahamas":[
-		{
-			"artno" : "514259",
-			"name" : "Hörndel",
-			"height" : "90",
-      "width" : "90"
-		},
-		{
-			"artno" : "514260",
-			"name" : "Mittdel",
-			"height" : "90",
-      "width" : "75"
-		},
-		{
-			"artno" : "514257",
-			"name" : "Vänster",
-			"height" : "90",
-      "width" : "140"
-		},
-		{
-			"artno" : "514258",
-			"name" : "Höger",
-			"height" : "90",
-      "width" : "140"
-		},
-		{
-			"artno" : "514261",
-			"name" : "Fåtölj",
-			"height" : "90",
-      "width" : "95"
-		},
-		{
-			"artno" : "514262",
-			"name" : "Ottoman",
-			"height" : "75",
-      "width" : "75"
-		}
-	]
+    "utemobler": [{
+            "namn": "bahamas",
+            "serieimageURL": "",
+            "data": [{
+                    "pid": "85566",
+                    "artno": "514259",
+                    "name": "Hörndel",
+                    "height": "90",
+                    "width": "90",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500487.jpg&w=3000&h=2000&q=100&version=106"
+                },
+                {
+                    "pid": "85567",
+                    "artno": "514260",
+                    "name": "Mittdel",
+                    "height": "90",
+                    "width": "75",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500492(4).jpg&w=3000&h=2000&q=100&version=105"
+                },
+                {
+                    "pid": "85564",
+                    "artno": "514257",
+                    "name": "Vänster",
+                    "height": "90",
+                    "width": "140",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500483.jpg&w=3000&h=2000&q=100&version=107"
+                },
+                {
+                    "pid": "85565",
+                    "artno": "514258",
+                    "name": "Höger",
+                    "height": "90",
+                    "width": "140",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500485.jpg&w=3000&h=2000&q=100&version=107"
+                },
+                {
+                    "pid": "85568",
+                    "artno": "514261",
+                    "name": "Fåtölj",
+                    "height": "90",
+                    "width": "95",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=96023.jpg&w=3000&h=2000&q=100&version=103"
+                },
+                {
+                    "pid": "85569",
+                    "artno": "514262",
+                    "name": "Ottoman",
+                    "height": "75",
+                    "width": "75",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=200-027(5).jpg&w=3000&h=2000&q=100&version=114"
+                }
+            ]
+        },
+        {
+            "namn": "wisconsin",
+            "serieimageURL": "",
+            "data": [{
+                    "pid": "85566",
+                    "artno": "514259",
+                    "name": "Hörndel",
+                    "height": "90",
+                    "width": "90",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500487.jpg&w=3000&h=2000&q=100&version=106"
+                },
+                {
+                    "pid": "85567",
+                    "artno": "514260",
+                    "name": "Mittdel",
+                    "height": "90",
+                    "width": "75",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500492(4).jpg&w=3000&h=2000&q=100&version=105"
+                },
+                {
+                    "pid": "85564",
+                    "artno": "514257",
+                    "name": "Vänster",
+                    "height": "90",
+                    "width": "140",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500483.jpg&w=3000&h=2000&q=100&version=107"
+                },
+                {
+                    "pid": "85565",
+                    "artno": "514258",
+                    "name": "Höger",
+                    "height": "90",
+                    "width": "140",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=500485.jpg&w=3000&h=2000&q=100&version=107"
+                },
+                {
+                    "pid": "85568",
+                    "artno": "514261",
+                    "name": "Fåtölj",
+                    "height": "90",
+                    "width": "95",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=96023.jpg&w=3000&h=2000&q=100&version=103"
+                },
+                {
+                    "pid": "85569",
+                    "artno": "514262",
+                    "name": "Ottoman",
+                    "height": "75",
+                    "width": "75",
+                    "imageURL": "http://dyywrkcdjm68b.cloudfront.net/image.php?src=200-027(5).jpg&w=3000&h=2000&q=100&version=114"
+                }
+            ]
+        }
+    ]
 }

@@ -1,4 +1,5 @@
 var data;
+var selectedSerieObject = 0;
 
 function preload(){
   data = loadJSON("info.json");
@@ -11,7 +12,5 @@ function setup() {
 
 function draw(){
     background(255);
-    fill(0);
-    stroke(0);
-    rect(window.innerWidth/2, window.innerHeight/2, data.bahamas[0].width, data.bahamas[0].height);
+    rect(200, 200, data.utemobler[0].data[0].width,data.utemobler[0].data[0].height);
 }
