@@ -9,17 +9,6 @@ function preload(){
   data = loadJSON("info.json", jsonLoaded);
 }
 
-function jsonLoaded(data1){
-  data = data1;
-
-    for (var i = 0; i < data.utemobler.length; i++){
-      serieBilder[i] = loadImage(data.utemobler[i].serieimageURL);
-      for (var j = 0; j < data.utemobler[i].data.length; j++){
-        modulBilder[i][j] = loadImage(data.utemobler[i].data[j].imageURL);
-      }
-    }
-}
-
 function setup() {
 
     createCanvas(window.innerWidth - 10, window.innerHeight - 10);
@@ -48,6 +37,17 @@ function mousePressed(){
       var dist1 = int(dist(mouseX, mouseY, serieObjects[i].x+imageSizeX/2,serieObjects[i].y+imageSizeY/2));
       if(dist1<imageSizeX/2){
         selectedSerieObject = i;
+      }
+    }
+}
+
+function jsonLoaded(data1){
+  data = data1;
+
+    for (var i = 0; i < data.utemobler.length; i++){
+      serieBilder[i] = loadImage(data.utemobler[i].serieimageURL);
+      for (var j = 0; j < data.utemobler[i].data.length; j++){
+        modulBilder[i][j] = loadImage(data.utemobler[i].data[j].imageURL);
       }
     }
 }
