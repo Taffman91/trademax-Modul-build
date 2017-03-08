@@ -6,9 +6,9 @@ function modulObject (x, y, index, bild, namn){
     this.namn = namn;
 
     this.show = function() {
-      image(this.img, this.x, this.y, imageSizeX, imageSizeY);
+      image(this.img, this.x, this.y, modulImageSizeX, modulImageSizeY);
       fill(0);
-      text(namn, this.x+35, this.y-10);
+      text(namn, this.x+35, this.y-5);
     }
 
     this.update = function(){

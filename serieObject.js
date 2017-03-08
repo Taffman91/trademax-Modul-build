@@ -1,6 +1,3 @@
-var imageSizeX = 150;
-var imageSizeY = 100;
-
 function serieObject (x, y, index, bild, namn){
     this.x = x;
     this.y = y;
@@ -9,7 +6,7 @@ function serieObject (x, y, index, bild, namn){
     this.namn = namn;
 
     this.show = function(selected) {
-      image(this.img, this.x, this.y, imageSizeX, imageSizeY);
+      image(this.img, this.x, this.y, SerieImageSizeX, SerieImageSizeY);
       if(selected == this.index){
         fill(90);
       }
