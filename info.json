@@ -8,7 +8,7 @@
                     "name": "Hörndel",
                     "height": "90",
                     "width": "90",
-                    "imageURL": "modulbilder/horndel.jpg"
+                    "imageURL": "modulbilder/514259.jpg"
                 },
                 {
                     "pid": "85567",
@@ -16,7 +16,7 @@
                     "name": "Mittdel",
                     "height": "90",
                     "width": "75",
-                    "imageURL": "modulbilder/mittdel.jpg"
+                    "imageURL": "modulbilder/514260.jpg"
                 },
                 {
                     "pid": "85564",
@@ -24,7 +24,7 @@
                     "name": "Vänster",
                     "height": "90",
                     "width": "140",
-                    "imageURL": "modulbilder/vanster.jpg"
+                    "imageURL": "modulbilder/514257.jpg"
                 },
                 {
                     "pid": "85565",
@@ -32,7 +32,7 @@
                     "name": "Höger",
                     "height": "90",
                     "width": "140",
-                    "imageURL": "modulbilder/hoger.jpg"
+                    "imageURL": "modulbilder/514258.jpg"
                 },
                 {
                     "pid": "85568",
@@ -40,7 +40,7 @@
                     "name": "Fåtölj",
                     "height": "90",
                     "width": "95",
-                    "imageURL": "modulbilder/fatolj.jpg"
+                    "imageURL": "modulbilder/514261.jpg"
                 },
                 {
                     "pid": "85569",
@@ -48,7 +48,7 @@
                     "name": "Ottoman",
                     "height": "75",
                     "width": "75",
-                    "imageURL": "modulbilder/ottoman.jpg"
+                    "imageURL": "modulbilder/514262.jpg"
                 }
             ]
         },
@@ -56,52 +56,44 @@
             "namn": "Wisconsin",
             "serieimageURL": "seriebilder/wisconsin.jpg",
             "data": [{
-                    "pid": "85566",
-                    "artno": "514259",
+                    "pid": "70858",
+                    "artno": "506384",
                     "name": "Hörndel",
-                    "height": "90",
-                    "width": "90",
-                    "imageURL": "modulbilder/horndel.jpg"
+                    "height": "80",
+                    "width": "80",
+                    "imageURL": "modulbilder/506384.jpg"
                 },
                 {
-                    "pid": "85567",
-                    "artno": "514260",
+                    "pid": "52511",
+                    "artno": "501276",
                     "name": "Mittdel",
-                    "height": "90",
-                    "width": "75",
-                    "imageURL": "modulbilder/mittdel.jpg"
+                    "height": "80",
+                    "width": "64",
+                    "imageURL": "modulbilder/501276.jpg"
                 },
                 {
-                    "pid": "85564",
-                    "artno": "514257",
-                    "name": "Vänster",
-                    "height": "90",
-                    "width": "140",
-                    "imageURL": "modulbilder/vanster.jpg"
+                    "pid": "70860",
+                    "artno": "506386",
+                    "name": "Bord",
+                    "height": "43",
+                    "width": "110",
+                    "imageURL": "modulbilder/506386.jpg"
                 },
                 {
-                    "pid": "85565",
-                    "artno": "514258",
-                    "name": "Höger",
-                    "height": "90",
-                    "width": "140",
-                    "imageURL": "modulbilder/hoger.jpg"
-                },
-                {
-                    "pid": "85568",
-                    "artno": "514261",
+                    "pid": "52513",
+                    "artno": "501278",
                     "name": "Fåtölj",
-                    "height": "90",
-                    "width": "95",
-                    "imageURL": "modulbilder/fatolj.jpg"
+                    "height": "80",
+                    "width": "80",
+                    "imageURL": "modulbilder/501278.jpg"
                 },
                 {
-                    "pid": "85569",
-                    "artno": "514262",
-                    "name": "Ottoman",
-                    "height": "75",
-                    "width": "75",
-                    "imageURL": "modulbilder/ottoman.jpg"
+                    "pid": "52515",
+                    "artno": "501280",
+                    "name": "Fotpall",
+                    "height": "64",
+                    "width": "64",
+                    "imageURL": "modulbilder/501280.jpg"
                 }
             ]
         }
