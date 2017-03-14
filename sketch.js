@@ -3,6 +3,7 @@ var selectedSerieObject = 1;
 var serieObjects = [];
 var serieBilder = [];
 var modulObjects = [];
+var skissObjects = [];
 var modulBilder = [
     [],
     []
@@ -63,7 +64,6 @@ function mousePressed() {
 
 function jsonLoaded(data1) {
     data = data1;
-
     for (var i = 0; i < data.utemobler.length; i++) {
         serieBilder[i] = loadImage(data.utemobler[i].serieimageURL);
         for (var j = 0; j < data.utemobler[i].data.length; j++) {
